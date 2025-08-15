@@ -41,11 +41,13 @@ This dashboard uses the **WeatherAPI** endpoint:
 3. Open dashboard.pbix in Power BI Desktop.
 4. Go to:
 
-```bash
-    Transform Data → Manage Parameters
-```
+    ```bash
+        Transform Data → Manage Parameters
+    ```
 
 5. Replace YOUR_API_KEY_HERE with your actual API key.
 6. Click Close & Apply and then Refresh.
+
+## 📸 Dashboard Preview
 
 [Weather_Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGM5ZjExYmItYzlmMy00YjhkLWJmN2UtZTk4YzYxY2IzYzQ2IiwidCI6IjBmZGYwYzdmLTA2OWMtNDE0YS05MTM2LWQwZjRlYmIzMDliOSJ9)
